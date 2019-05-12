@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#define LOG_TAG "android.hardware.biometrics.fingerprint@2.1-service.xiaomi_msm8937"
+#define LOG_TAG "android.hardware.biometrics.fingerprint@2.1-service.asus_msm8937"
 
 #include <binder/IPCThreadState.h>
 #include <binder/IServiceManager.h>
