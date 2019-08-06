@@ -19,9 +19,9 @@
 set -e
 
 DEVICE_COMMON=msm8937-common
-VENDOR=xiaomi
+VENDOR=asus
 
-INITIAL_COPYRIGHT_YEAR=2018
+INITIAL_COPYRIGHT_YEAR=2019
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
